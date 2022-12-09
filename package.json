@@ -1,0 +1,29 @@
+{
+  "name": "@liting-yes/timezone",
+  "version": "0.0.0",
+  "description": "time zone list",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-standard/timezone.git"
+  },
+  "keywords": [
+    "timezone"
+  ],
+  "homepage": "https://github.com/dev-standard/timezone#readme",
+  "author": "liting-yes <luz.liting@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
+    "eslint-config-liting": "^0.1.0",
+    "release-it": "^15.5.1"
+  }
+}
