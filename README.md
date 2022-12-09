@@ -1,3 +1,3 @@
 Time Zone List
 
-a standard time zone
+a standard time zone list
