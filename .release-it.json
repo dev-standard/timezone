@@ -52,9 +52,6 @@
     }
   },
   "hooks": {
-    "before:init": [
-      "npm run format"
-    ],
     "after:git:release": "git push origin HEAD"
   }
 }
