@@ -8,11 +8,39 @@
       "contry": "Andorra"
     },
     {
-      "code": "AE,OM,RE,SC,TF",
+      "code": "AE",
       "comments": "UAE, Oman, Réunion, Seychelles, Crozet, Scattered Is",
       "coordinates": "+2518+05518",
       "tz": "Asia/Dubai",
-      "contry": ""
+      "contry": "United"
+    },
+    {
+      "code": "OM",
+      "comments": "UAE, Oman, Réunion, Seychelles, Crozet, Scattered Is",
+      "coordinates": "+2518+05518",
+      "tz": "Asia/Dubai",
+      "contry": "Oman"
+    },
+    {
+      "code": "RE",
+      "comments": "UAE, Oman, Réunion, Seychelles, Crozet, Scattered Is",
+      "coordinates": "+2518+05518",
+      "tz": "Asia/Dubai",
+      "contry": "Réunion"
+    },
+    {
+      "code": "SC",
+      "comments": "UAE, Oman, Réunion, Seychelles, Crozet, Scattered Is",
+      "coordinates": "+2518+05518",
+      "tz": "Asia/Dubai",
+      "contry": "Seychelles"
+    },
+    {
+      "code": "TF",
+      "comments": "UAE, Oman, Réunion, Seychelles, Crozet, Scattered Is",
+      "coordinates": "+2518+05518",
+      "tz": "Asia/Dubai",
+      "contry": "French"
     },
     {
       "code": "AF",
@@ -162,11 +190,18 @@
       "contry": "Argentina"
     },
     {
-      "code": "AS,UM",
+      "code": "AS",
       "comments": "Samoa, Midway",
       "coordinates": "-1416-17042",
       "tz": "Pacific/Pago_Pago",
-      "contry": ""
+      "contry": "Samoa"
+    },
+    {
+      "code": "UM",
+      "comments": "Samoa, Midway",
+      "coordinates": "-1416-17042",
+      "tz": "Pacific/Pago_Pago",
+      "contry": "US"
     },
     {
       "code": "AT",
@@ -281,11 +316,25 @@
       "contry": "Bangladesh"
     },
     {
-      "code": "BE,LU,NL",
+      "code": "BE",
       "comments": "",
       "coordinates": "+5050+00420",
       "tz": "Europe/Brussels",
-      "contry": ""
+      "contry": "Belgium"
+    },
+    {
+      "code": "LU",
+      "comments": "",
+      "coordinates": "+5050+00420",
+      "tz": "Europe/Brussels",
+      "contry": "Luxembourg"
+    },
+    {
+      "code": "NL",
+      "comments": "",
+      "coordinates": "+5050+00420",
+      "tz": "Europe/Brussels",
+      "contry": "Netherlands"
     },
     {
       "code": "BG",
@@ -477,11 +526,18 @@
       "contry": "Canada"
     },
     {
-      "code": "CA,BS",
+      "code": "CA",
       "comments": "Eastern - ON, QC (most areas), Bahamas",
       "coordinates": "+4339-07923",
       "tz": "America/Toronto",
-      "contry": ""
+      "contry": "Canada"
+    },
+    {
+      "code": "BS",
+      "comments": "Eastern - ON, QC (most areas), Bahamas",
+      "coordinates": "+4339-07923",
+      "tz": "America/Toronto",
+      "contry": "Bahamas"
     },
     {
       "code": "CA",
@@ -589,18 +645,109 @@
       "contry": "Canada"
     },
     {
-      "code": "CH,DE,LI",
+      "code": "CH",
       "comments": "Swiss time",
       "coordinates": "+4723+00832",
       "tz": "Europe/Zurich",
-      "contry": ""
+      "contry": "Switzerland"
     },
     {
-      "code": "CI,BF,GH,GM,GN,IS,ML,MR,SH,SL,SN,TG",
+      "code": "DE",
+      "comments": "Swiss time",
+      "coordinates": "+4723+00832",
+      "tz": "Europe/Zurich",
+      "contry": "Germany"
+    },
+    {
+      "code": "LI",
+      "comments": "Swiss time",
+      "coordinates": "+4723+00832",
+      "tz": "Europe/Zurich",
+      "contry": "Liechtenstein"
+    },
+    {
+      "code": "CI",
       "comments": "",
       "coordinates": "+0519-00402",
       "tz": "Africa/Abidjan",
-      "contry": ""
+      "contry": "Côte"
+    },
+    {
+      "code": "BF",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Burkina"
+    },
+    {
+      "code": "GH",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Ghana"
+    },
+    {
+      "code": "GM",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Gambia"
+    },
+    {
+      "code": "GN",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Guinea"
+    },
+    {
+      "code": "IS",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Iceland"
+    },
+    {
+      "code": "ML",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Mali"
+    },
+    {
+      "code": "MR",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Mauritania"
+    },
+    {
+      "code": "SH",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "St"
+    },
+    {
+      "code": "SL",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Sierra"
+    },
+    {
+      "code": "SN",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Senegal"
+    },
+    {
+      "code": "TG",
+      "comments": "",
+      "coordinates": "+0519-00402",
+      "tz": "Africa/Abidjan",
+      "contry": "Togo"
     },
     {
       "code": "CK",
@@ -638,11 +785,18 @@
       "contry": "China"
     },
     {
-      "code": "CN,AQ",
+      "code": "CN",
       "comments": "Xinjiang Time, Vostok",
       "coordinates": "+4348+08735",
       "tz": "Asia/Urumqi",
-      "contry": ""
+      "contry": "China"
+    },
+    {
+      "code": "AQ",
+      "comments": "Xinjiang Time, Vostok",
+      "coordinates": "+4348+08735",
+      "tz": "Asia/Urumqi",
+      "contry": "Antarctica"
     },
     {
       "code": "CO",
@@ -687,18 +841,53 @@
       "contry": "Cyprus"
     },
     {
-      "code": "CZ,SK",
+      "code": "CZ",
       "comments": "",
       "coordinates": "+5005+01426",
       "tz": "Europe/Prague",
-      "contry": ""
+      "contry": "Czech"
     },
     {
-      "code": "DE,DK,NO,SE,SJ",
+      "code": "SK",
+      "comments": "",
+      "coordinates": "+5005+01426",
+      "tz": "Europe/Prague",
+      "contry": "Slovakia"
+    },
+    {
+      "code": "DE",
       "comments": "Germany (most areas), Scandinavia",
       "coordinates": "+5230+01322",
       "tz": "Europe/Berlin",
-      "contry": ""
+      "contry": "Germany"
+    },
+    {
+      "code": "DK",
+      "comments": "Germany (most areas), Scandinavia",
+      "coordinates": "+5230+01322",
+      "tz": "Europe/Berlin",
+      "contry": "Denmark"
+    },
+    {
+      "code": "NO",
+      "comments": "Germany (most areas), Scandinavia",
+      "coordinates": "+5230+01322",
+      "tz": "Europe/Berlin",
+      "contry": "Norway"
+    },
+    {
+      "code": "SE",
+      "comments": "Germany (most areas), Scandinavia",
+      "coordinates": "+5230+01322",
+      "tz": "Europe/Berlin",
+      "contry": "Sweden"
+    },
+    {
+      "code": "SJ",
+      "comments": "Germany (most areas), Scandinavia",
+      "coordinates": "+5230+01322",
+      "tz": "Europe/Berlin",
+      "contry": "Svalbard"
     },
     {
       "code": "DO",
@@ -771,11 +960,18 @@
       "contry": "Spain"
     },
     {
-      "code": "FI,AX",
+      "code": "FI",
       "comments": "",
       "coordinates": "+6010+02458",
       "tz": "Europe/Helsinki",
-      "contry": ""
+      "contry": "Finland"
+    },
+    {
+      "code": "AX",
+      "comments": "",
+      "coordinates": "+6010+02458",
+      "tz": "Europe/Helsinki",
+      "contry": "Åland"
     },
     {
       "code": "FJ",
@@ -806,18 +1002,46 @@
       "contry": "Faroe"
     },
     {
-      "code": "FR,MC",
+      "code": "FR",
       "comments": "",
       "coordinates": "+4852+00220",
       "tz": "Europe/Paris",
-      "contry": ""
+      "contry": "France"
     },
     {
-      "code": "GB,GG,IM,JE",
+      "code": "MC",
+      "comments": "",
+      "coordinates": "+4852+00220",
+      "tz": "Europe/Paris",
+      "contry": "Monaco"
+    },
+    {
+      "code": "GB",
       "comments": "",
       "coordinates": "+513030-0000731",
       "tz": "Europe/London",
-      "contry": ""
+      "contry": "Britain"
+    },
+    {
+      "code": "GG",
+      "comments": "",
+      "coordinates": "+513030-0000731",
+      "tz": "Europe/London",
+      "contry": "Guernsey"
+    },
+    {
+      "code": "IM",
+      "comments": "",
+      "coordinates": "+513030-0000731",
+      "tz": "Europe/London",
+      "contry": "Isle"
+    },
+    {
+      "code": "JE",
+      "comments": "",
+      "coordinates": "+513030-0000731",
+      "tz": "Europe/London",
+      "contry": "Jersey"
     },
     {
       "code": "GE",
@@ -890,11 +1114,18 @@
       "contry": "Guatemala"
     },
     {
-      "code": "GU,MP",
+      "code": "GU",
       "comments": "",
       "coordinates": "+1328+14445",
       "tz": "Pacific/Guam",
-      "contry": ""
+      "contry": "Guam"
+    },
+    {
+      "code": "MP",
+      "comments": "",
+      "coordinates": "+1328+14445",
+      "tz": "Pacific/Guam",
+      "contry": "Northern"
     },
     {
       "code": "GW",
@@ -1009,11 +1240,25 @@
       "contry": "Iran"
     },
     {
-      "code": "IT,SM,VA",
+      "code": "IT",
       "comments": "",
       "coordinates": "+4154+01229",
       "tz": "Europe/Rome",
-      "contry": ""
+      "contry": "Italy"
+    },
+    {
+      "code": "SM",
+      "comments": "",
+      "coordinates": "+4154+01229",
+      "tz": "Europe/Rome",
+      "contry": "San"
+    },
+    {
+      "code": "VA",
+      "comments": "",
+      "coordinates": "+4154+01229",
+      "tz": "Europe/Rome",
+      "contry": "Vatican"
     },
     {
       "code": "JM",
@@ -1037,11 +1282,74 @@
       "contry": "Japan"
     },
     {
-      "code": "KE,DJ,ER,ET,KM,MG,SO,TZ,UG,YT",
+      "code": "KE",
       "comments": "",
       "coordinates": "-0117+03649",
       "tz": "Africa/Nairobi",
-      "contry": ""
+      "contry": "Kenya"
+    },
+    {
+      "code": "DJ",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Djibouti"
+    },
+    {
+      "code": "ER",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Eritrea"
+    },
+    {
+      "code": "ET",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Ethiopia"
+    },
+    {
+      "code": "KM",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Comoros"
+    },
+    {
+      "code": "MG",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Madagascar"
+    },
+    {
+      "code": "SO",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Somalia"
+    },
+    {
+      "code": "TZ",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Tanzania"
+    },
+    {
+      "code": "UG",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Uganda"
+    },
+    {
+      "code": "YT",
+      "comments": "",
+      "coordinates": "-0117+03649",
+      "tz": "Africa/Nairobi",
+      "contry": "Mayotte"
     },
     {
       "code": "KG",
@@ -1051,11 +1359,39 @@
       "contry": "Kyrgyzstan"
     },
     {
-      "code": "KI,MH,TV,UM,WF",
+      "code": "KI",
       "comments": "Gilberts, Marshalls, Tuvalu, Wallis & Futuna, Wake",
       "coordinates": "+0125+17300",
       "tz": "Pacific/Tarawa",
-      "contry": ""
+      "contry": "Kiribati"
+    },
+    {
+      "code": "MH",
+      "comments": "Gilberts, Marshalls, Tuvalu, Wallis & Futuna, Wake",
+      "coordinates": "+0125+17300",
+      "tz": "Pacific/Tarawa",
+      "contry": "Marshall"
+    },
+    {
+      "code": "TV",
+      "comments": "Gilberts, Marshalls, Tuvalu, Wallis & Futuna, Wake",
+      "coordinates": "+0125+17300",
+      "tz": "Pacific/Tarawa",
+      "contry": "Tuvalu"
+    },
+    {
+      "code": "UM",
+      "comments": "Gilberts, Marshalls, Tuvalu, Wallis & Futuna, Wake",
+      "coordinates": "+0125+17300",
+      "tz": "Pacific/Tarawa",
+      "contry": "US"
+    },
+    {
+      "code": "WF",
+      "comments": "Gilberts, Marshalls, Tuvalu, Wallis & Futuna, Wake",
+      "coordinates": "+0125+17300",
+      "tz": "Pacific/Tarawa",
+      "contry": "Wallis"
     },
     {
       "code": "KI",
@@ -1198,11 +1534,18 @@
       "contry": "Marshall"
     },
     {
-      "code": "MM,CC",
+      "code": "MM",
       "comments": "",
       "coordinates": "+1647+09610",
       "tz": "Asia/Yangon",
-      "contry": ""
+      "contry": "Myanmar"
+    },
+    {
+      "code": "CC",
+      "comments": "",
+      "coordinates": "+1647+09610",
+      "tz": "Asia/Yangon",
+      "contry": "Cocos"
     },
     {
       "code": "MN",
@@ -1254,11 +1597,18 @@
       "contry": "Mauritius"
     },
     {
-      "code": "MV,TF",
+      "code": "MV",
       "comments": "Maldives, Kerguelen, St Paul I, Amsterdam I",
       "coordinates": "+0410+07330",
       "tz": "Indian/Maldives",
-      "contry": ""
+      "contry": "Maldives"
+    },
+    {
+      "code": "TF",
+      "comments": "Maldives, Kerguelen, St Paul I, Amsterdam I",
+      "coordinates": "+0410+07330",
+      "tz": "Indian/Maldives",
+      "contry": "French"
     },
     {
       "code": "MX",
@@ -1345,18 +1695,74 @@
       "contry": "Mexico"
     },
     {
-      "code": "MY,BN",
+      "code": "MY",
       "comments": "Sabah, Sarawak, Brunei",
       "coordinates": "+0133+11020",
       "tz": "Asia/Kuching",
-      "contry": ""
+      "contry": "Malaysia"
     },
     {
-      "code": "MZ,BI,BW,CD,MW,RW,ZM,ZW",
+      "code": "BN",
+      "comments": "Sabah, Sarawak, Brunei",
+      "coordinates": "+0133+11020",
+      "tz": "Asia/Kuching",
+      "contry": "Brunei"
+    },
+    {
+      "code": "MZ",
       "comments": "Central Africa Time",
       "coordinates": "-2558+03235",
       "tz": "Africa/Maputo",
-      "contry": ""
+      "contry": "Mozambique"
+    },
+    {
+      "code": "BI",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Burundi"
+    },
+    {
+      "code": "BW",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Botswana"
+    },
+    {
+      "code": "CD",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Congo"
+    },
+    {
+      "code": "MW",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Malawi"
+    },
+    {
+      "code": "RW",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Rwanda"
+    },
+    {
+      "code": "ZM",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Zambia"
+    },
+    {
+      "code": "ZW",
+      "comments": "Central Africa Time",
+      "coordinates": "-2558+03235",
+      "tz": "Africa/Maputo",
+      "contry": "Zimbabwe"
     },
     {
       "code": "NA",
@@ -1380,11 +1786,74 @@
       "contry": "Norfolk"
     },
     {
-      "code": "NG,AO,BJ,CD,CF,CG,CM,GA,GQ,NE",
+      "code": "NG",
       "comments": "West Africa Time",
       "coordinates": "+0627+00324",
       "tz": "Africa/Lagos",
-      "contry": ""
+      "contry": "Nigeria"
+    },
+    {
+      "code": "AO",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Angola"
+    },
+    {
+      "code": "BJ",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Benin"
+    },
+    {
+      "code": "CD",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Congo"
+    },
+    {
+      "code": "CF",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Central"
+    },
+    {
+      "code": "CG",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Congo"
+    },
+    {
+      "code": "CM",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Cameroon"
+    },
+    {
+      "code": "GA",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Gabon"
+    },
+    {
+      "code": "GQ",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Equatorial"
+    },
+    {
+      "code": "NE",
+      "comments": "West Africa Time",
+      "coordinates": "+0627+00324",
+      "tz": "Africa/Lagos",
+      "contry": "Niger"
     },
     {
       "code": "NI",
@@ -1415,11 +1884,18 @@
       "contry": "Niue"
     },
     {
-      "code": "NZ,AQ",
+      "code": "NZ",
       "comments": "New Zealand time",
       "coordinates": "-3652+17446",
       "tz": "Pacific/Auckland",
-      "contry": ""
+      "contry": "New"
+    },
+    {
+      "code": "AQ",
+      "comments": "New Zealand time",
+      "coordinates": "-3652+17446",
+      "tz": "Pacific/Auckland",
+      "contry": "Antarctica"
     },
     {
       "code": "NZ",
@@ -1429,11 +1905,25 @@
       "contry": "New"
     },
     {
-      "code": "PA,CA,KY",
+      "code": "PA",
       "comments": "EST - Panama, Cayman, ON (Atikokan), NU (Coral H)",
       "coordinates": "+0858-07932",
       "tz": "America/Panama",
-      "contry": ""
+      "contry": "Panama"
+    },
+    {
+      "code": "CA",
+      "comments": "EST - Panama, Cayman, ON (Atikokan), NU (Coral H)",
+      "coordinates": "+0858-07932",
+      "tz": "America/Panama",
+      "contry": "Canada"
+    },
+    {
+      "code": "KY",
+      "comments": "EST - Panama, Cayman, ON (Atikokan), NU (Coral H)",
+      "coordinates": "+0858-07932",
+      "tz": "America/Panama",
+      "contry": "Cayman"
     },
     {
       "code": "PE",
@@ -1464,11 +1954,25 @@
       "contry": "French"
     },
     {
-      "code": "PG,AQ,FM",
+      "code": "PG",
       "comments": "Papua New Guinea (most areas), Chuuk, Yap, Dumont d'Urville",
       "coordinates": "-0930+14710",
       "tz": "Pacific/Port_Moresby",
-      "contry": ""
+      "contry": "Papua"
+    },
+    {
+      "code": "AQ",
+      "comments": "Papua New Guinea (most areas), Chuuk, Yap, Dumont d'Urville",
+      "coordinates": "-0930+14710",
+      "tz": "Pacific/Port_Moresby",
+      "contry": "Antarctica"
+    },
+    {
+      "code": "FM",
+      "comments": "Papua New Guinea (most areas), Chuuk, Yap, Dumont d'Urville",
+      "coordinates": "-0930+14710",
+      "tz": "Pacific/Port_Moresby",
+      "contry": "Micronesia"
     },
     {
       "code": "PG",
@@ -1513,11 +2017,144 @@
       "contry": "Pitcairn"
     },
     {
-      "code": "PR,AG,CA,AI,AW,BL,BQ,CW,DM,GD,GP,KN,LC,MF,MS,SX,TT,VC,VG,VI",
+      "code": "PR",
       "comments": "AST",
       "coordinates": "+182806-0660622",
       "tz": "America/Puerto_Rico",
-      "contry": ""
+      "contry": "Puerto"
+    },
+    {
+      "code": "AG",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Antigua"
+    },
+    {
+      "code": "CA",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Canada"
+    },
+    {
+      "code": "AI",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Anguilla"
+    },
+    {
+      "code": "AW",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Aruba"
+    },
+    {
+      "code": "BL",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "BQ",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Caribbean"
+    },
+    {
+      "code": "CW",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Curaçao"
+    },
+    {
+      "code": "DM",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Dominica"
+    },
+    {
+      "code": "GD",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Grenada"
+    },
+    {
+      "code": "GP",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Guadeloupe"
+    },
+    {
+      "code": "KN",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "LC",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "MF",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "MS",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Montserrat"
+    },
+    {
+      "code": "SX",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "TT",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Trinidad"
+    },
+    {
+      "code": "VC",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "St"
+    },
+    {
+      "code": "VG",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Virgin"
+    },
+    {
+      "code": "VI",
+      "comments": "AST",
+      "coordinates": "+182806-0660622",
+      "tz": "America/Puerto_Rico",
+      "contry": "Virgin"
     },
     {
       "code": "PS",
@@ -1569,11 +2206,18 @@
       "contry": "Paraguay"
     },
     {
-      "code": "QA,BH",
+      "code": "QA",
       "comments": "",
       "coordinates": "+2517+05132",
       "tz": "Asia/Qatar",
-      "contry": ""
+      "contry": "Qatar"
+    },
+    {
+      "code": "BH",
+      "comments": "",
+      "coordinates": "+2517+05132",
+      "tz": "Asia/Qatar",
+      "contry": "Bahrain"
     },
     {
       "code": "RO",
@@ -1583,11 +2227,46 @@
       "contry": "Romania"
     },
     {
-      "code": "RS,BA,HR,ME,MK,SI",
+      "code": "RS",
       "comments": "",
       "coordinates": "+4450+02030",
       "tz": "Europe/Belgrade",
-      "contry": ""
+      "contry": "Serbia"
+    },
+    {
+      "code": "BA",
+      "comments": "",
+      "coordinates": "+4450+02030",
+      "tz": "Europe/Belgrade",
+      "contry": "Bosnia"
+    },
+    {
+      "code": "HR",
+      "comments": "",
+      "coordinates": "+4450+02030",
+      "tz": "Europe/Belgrade",
+      "contry": "Croatia"
+    },
+    {
+      "code": "ME",
+      "comments": "",
+      "coordinates": "+4450+02030",
+      "tz": "Europe/Belgrade",
+      "contry": "Montenegro"
+    },
+    {
+      "code": "MK",
+      "comments": "",
+      "coordinates": "+4450+02030",
+      "tz": "Europe/Belgrade",
+      "contry": "North"
+    },
+    {
+      "code": "SI",
+      "comments": "",
+      "coordinates": "+4450+02030",
+      "tz": "Europe/Belgrade",
+      "contry": "Slovenia"
     },
     {
       "code": "RU",
@@ -1604,11 +2283,18 @@
       "contry": "Russia"
     },
     {
-      "code": "RU,UA",
+      "code": "RU",
       "comments": "Crimea",
       "coordinates": "+4457+03406",
       "tz": "Europe/Simferopol",
-      "contry": ""
+      "contry": "Russia"
+    },
+    {
+      "code": "UA",
+      "comments": "Crimea",
+      "coordinates": "+4457+03406",
+      "tz": "Europe/Simferopol",
+      "contry": "Ukraine"
     },
     {
       "code": "RU",
@@ -1779,18 +2465,46 @@
       "contry": "Russia"
     },
     {
-      "code": "SA,AQ,KW,YE",
+      "code": "SA",
       "comments": "Arabia, Syowa",
       "coordinates": "+2438+04643",
       "tz": "Asia/Riyadh",
-      "contry": ""
+      "contry": "Saudi"
     },
     {
-      "code": "SB,FM",
+      "code": "AQ",
+      "comments": "Arabia, Syowa",
+      "coordinates": "+2438+04643",
+      "tz": "Asia/Riyadh",
+      "contry": "Antarctica"
+    },
+    {
+      "code": "KW",
+      "comments": "Arabia, Syowa",
+      "coordinates": "+2438+04643",
+      "tz": "Asia/Riyadh",
+      "contry": "Kuwait"
+    },
+    {
+      "code": "YE",
+      "comments": "Arabia, Syowa",
+      "coordinates": "+2438+04643",
+      "tz": "Asia/Riyadh",
+      "contry": "Yemen"
+    },
+    {
+      "code": "SB",
       "comments": "Solomons, Pohnpei",
       "coordinates": "-0932+16012",
       "tz": "Pacific/Guadalcanal",
-      "contry": ""
+      "contry": "Solomon"
+    },
+    {
+      "code": "FM",
+      "comments": "Solomons, Pohnpei",
+      "coordinates": "-0932+16012",
+      "tz": "Pacific/Guadalcanal",
+      "contry": "Micronesia"
     },
     {
       "code": "SD",
@@ -1800,11 +2514,18 @@
       "contry": "Sudan"
     },
     {
-      "code": "SG,MY",
+      "code": "SG",
       "comments": "Singapore, peninsular Malaysia",
       "coordinates": "+0117+10351",
       "tz": "Asia/Singapore",
-      "contry": ""
+      "contry": "Singapore"
+    },
+    {
+      "code": "MY",
+      "comments": "Singapore, peninsular Malaysia",
+      "coordinates": "+0117+10351",
+      "tz": "Asia/Singapore",
+      "contry": "Malaysia"
     },
     {
       "code": "SR",
@@ -1856,11 +2577,39 @@
       "contry": "Chad"
     },
     {
-      "code": "TH,CX,KH,LA,VN",
+      "code": "TH",
       "comments": "Indochina (most areas)",
       "coordinates": "+1345+10031",
       "tz": "Asia/Bangkok",
-      "contry": ""
+      "contry": "Thailand"
+    },
+    {
+      "code": "CX",
+      "comments": "Indochina (most areas)",
+      "coordinates": "+1345+10031",
+      "tz": "Asia/Bangkok",
+      "contry": "Christmas"
+    },
+    {
+      "code": "KH",
+      "comments": "Indochina (most areas)",
+      "coordinates": "+1345+10031",
+      "tz": "Asia/Bangkok",
+      "contry": "Cambodia"
+    },
+    {
+      "code": "LA",
+      "comments": "Indochina (most areas)",
+      "coordinates": "+1345+10031",
+      "tz": "Asia/Bangkok",
+      "contry": "Laos"
+    },
+    {
+      "code": "VN",
+      "comments": "Indochina (most areas)",
+      "coordinates": "+1345+10031",
+      "tz": "Asia/Bangkok",
+      "contry": "Vietnam"
     },
     {
       "code": "TJ",
@@ -2059,11 +2808,18 @@
       "contry": "United"
     },
     {
-      "code": "US,CA",
+      "code": "US",
       "comments": "MST - Arizona (except Navajo), Creston BC",
       "coordinates": "+332654-1120424",
       "tz": "America/Phoenix",
-      "contry": ""
+      "contry": "United"
+    },
+    {
+      "code": "CA",
+      "comments": "MST - Arizona (except Navajo), Creston BC",
+      "coordinates": "+332654-1120424",
+      "tz": "America/Phoenix",
+      "contry": "Canada"
     },
     {
       "code": "US",
@@ -2122,11 +2878,18 @@
       "contry": "United"
     },
     {
-      "code": "US,UM",
+      "code": "US",
       "comments": "Hawaii",
       "coordinates": "+211825-1575130",
       "tz": "Pacific/Honolulu",
-      "contry": ""
+      "contry": "United"
+    },
+    {
+      "code": "UM",
+      "comments": "Hawaii",
+      "coordinates": "+211825-1575130",
+      "tz": "Pacific/Honolulu",
+      "contry": "US"
     },
     {
       "code": "UY",
@@ -2178,11 +2941,25 @@
       "contry": "Samoa"
     },
     {
-      "code": "ZA,LS,SZ",
+      "code": "ZA",
       "comments": "",
       "coordinates": "-2615+02800",
       "tz": "Africa/Johannesburg",
-      "contry": ""
+      "contry": "South"
+    },
+    {
+      "code": "LS",
+      "comments": "",
+      "coordinates": "-2615+02800",
+      "tz": "Africa/Johannesburg",
+      "contry": "Lesotho"
+    },
+    {
+      "code": "SZ",
+      "comments": "",
+      "coordinates": "-2615+02800",
+      "tz": "Africa/Johannesburg",
+      "contry": "Eswatini"
     },
     {
       "code": "",
@@ -2190,5 +2967,5 @@
       "contry": ""
     }
   ],
-  "updateTime": 1670603815697
+  "updateTime": 1670642957446
 }
