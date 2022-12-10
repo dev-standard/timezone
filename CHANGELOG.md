@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.0](https://github.com/dev-standard/timezone/compare/0.1.1...0.2.0) (2022-12-10)
+
+
+### Features
+
+* support i18n ([c161099](https://github.com/dev-standard/timezone/commit/c1610999721d9c205ae9d57d8a2995f1419d8757))
+* support intruoduce with esm ([185d9b4](https://github.com/dev-standard/timezone/commit/185d9b40c449c0b01129768893da3348b96b37a2))
+
+
+### Bug Fixes
+
+* rm .babelrc ([08eaef9](https://github.com/dev-standard/timezone/commit/08eaef900e7bcc82bf9ec979d1e5b3866e9294a7))
+
 ### 0.1.1 (2022-12-10)
 
 
