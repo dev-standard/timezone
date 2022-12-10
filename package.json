@@ -1,6 +1,6 @@
 {
   "name": "@liting-yes/timezone",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "time zone list",
   "type": "module",
   "private": false,
