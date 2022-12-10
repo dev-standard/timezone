@@ -1,7 +1,9 @@
 {
   "extends": "liting",
-  "parser": "@babel/eslint-parser",
   "env": {
-    "es2017": true
+    "es2017": true,
+  },
+  "parserOptions": {
+    "sourceType": "module"
   }
 }
