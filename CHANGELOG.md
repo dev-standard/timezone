@@ -1,5 +1,7 @@
 # Changelog
 
+## [0.3.0](https://github.com/dev-standard/timezone/compare/0.2.0...0.3.0) (2022-12-13)
+
 ## [0.2.0](https://github.com/dev-standard/timezone/compare/0.1.1...0.2.0) (2022-12-10)
 
 
