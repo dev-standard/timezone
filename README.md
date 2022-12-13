@@ -20,7 +20,7 @@ a standard time zone list
   "location": "country, territory, area, or subdivision",
   "offset": "the offset in milliseconds between the time zone and UTC time",
   "shortGmt": "short GMT",
-  "longGmt": "long GMT+01:00",
+  "longGmt": "long GMT",
   "shortNonLocation": "short specific non-location format",
   "longNonLocation": "long specific non-location format"
 }
