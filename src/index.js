@@ -1,7 +1,7 @@
 /*
  * @Date: 2022-12-10 00:12:09
  * @LastEditors: liting luz.liting@gmail.com
- * @LastEditTime: 2022-12-10 17:47:11
+ * @LastEditTime: 2022-12-14 00:13:04
  * @FilePath: /timezone/src/index.js
  */
 import chalk from 'chalk'
@@ -10,6 +10,7 @@ import glob from 'glob'
 import path from 'path'
 import { formatInTimeZone, getTimezoneOffset } from 'date-fns-tz/esm'
 import { datefnsLocales, formatLocaleKey } from './utils/index.js'
+import {sortBy} from 'lodash-es'
 
 const localesEntry = path.join(process.cwd(), '/node_modules/date-fns/esm/locale/')
 const countryCodeEntry = path.resolve(process.cwd(), './src/data/iso3166.tab')
@@ -121,6 +122,8 @@ const refresh = async () => {
     await fs.mkdir(outputDir)
 
     locales.forEach(locale => {
+      timezoneLocalesMap.get(locale.locale).list = sortBy(timezoneLocalesMap.get(locale.locale).list, ['offset', 'iana', 'contry'])
+      timezoneLocalesMap.get(locale.locale).incompatible = sortBy(timezoneLocalesMap.get(locale.locale).incompatible, ['iana', 'contry'])
       fs.writeFile(
         path.resolve(outputDir, locale.outputFileName),
         JSON.stringify(timezoneLocalesMap.get(locale.locale), null, 2),
